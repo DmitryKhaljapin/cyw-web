@@ -22,3 +22,23 @@
     -3px 3px 0 #000,
     3px 3px 0 #000;
 }
+.navback {
+  background: none;
+  width: 40px;
+  height: 40px;
+}
+.navback-arrow {
+  width: 40px;
+  height: 40px;
+}
+.page-header {
+  display: flex;
+  width: 100%;
+}
+
+.title-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}

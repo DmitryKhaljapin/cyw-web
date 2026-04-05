@@ -48,3 +48,24 @@ form {
   flex-direction: column;
   gap: 24px;
 }
+.navback {
+  background: none;
+  width: 40px;
+  height: 40px;
+}
+.navback-arrow {
+  width: 40px;
+  height: 40px;
+}
+
+.page-header {
+  display: flex;
+  width: 100%;
+}
+
+.title-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
